@@ -46,7 +46,7 @@ To start using `MetKMR` we recomend to:
 ## SHINY APP : GUI user interface
 Do you like pushing buttons? If you prefer using an app than running a script  MetKMR has it own shiny app that can be download from here:
 
-<A HREF="https://www.dropbox.com/s/0qq24lo1dfq3a9s/shiny_final.tar.xz?dl=0"> MetKMR shiny App </A>
+<A HREF="https://www.dropbox.com/s/mecamr1c16wti8c/MetKMR_shinyapp_final.zip?dl=0"> MetKMR shiny App </A>
 
 You can download some examples of how to format your data for using the shiny app from here:
 <A HREF="https://www.dropbox.com/s/ykg9hbmwfc3o0ys/data_for_trying_the_app.zip?dl=0"> MetKMR shiny App inputs</A>
