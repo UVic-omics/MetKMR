@@ -13,7 +13,7 @@ devtools::install_github("RuthBarral/MetKMR_2.1/MetKMR_2.1/",auth_token="2253a1d
   library("MetKMR")
 ```
 Manually
-<A HREF="https://github.com/UVic-omics/MetKMR/blob/master/MetKMR_2.1.tar.xz"> Package </A>
+<A HREF="https://github.com/UVic-omics/MetKMR/blob/master/MetKMR_1.0.tar.xz"> Package </A>
 
 ## What is MetKMR?
 There are many differential methylation analysis packages available already, but the majority of them are focused on testing individual sites and composing differentially methylated regions. In this current work an alternative one is proposed, based on a slidingwindow approach with association tests between the generated intervals and the phenotype, using kernel metrics constructed with distance metrics via a semi-parametric kernel machine regression framework, by adapting the Microbiome Regression-based Kernel Association Test (MiRKAT) package.
@@ -31,27 +31,25 @@ To start using `MetKMR` we recomend to:
  
  #### First Tutorial: Analyzing a epigenomic experiment (450K) in which the outcome variable is dichotomous (Healthy vs Hungtinton)
 
-<A HREF="https://github.com/UVic-omics/MetKMR/blob/master/firstruthfinal.pdf"> First tutorial </A><br>
- <A HREF="https://www.dropbox.com/s/woxkm1ug04dz0gk/files_tutorial1.zip?dl=0"> First tutorial data files </A>
+<A HREF="https://github.com/UVic-omics/MetKMR/blob/master/HD_example.pdf"> First tutorial </A><br>
+ <A HREF="https://www.dropbox.com/s/00d96vq5k2k4kdw/files_tutorial1.zip?dl=0"> First tutorial data files </A>
 <br>
 #### Second Tutorial: An interactomic approach based on combining epigenomic (450K) and transcriptomic data (RNA-Seq) from the Genome Cancer Atlas Project. 
-<A HREF="https://github.com/UVic-omics/MetKMR/blob/master/3rd_approach.pdf"> Second tutorial </A>
+<A HREF="https://github.com/UVic-omics/MetKMR/blob/master/interactomics.pdf"> Second tutorial </A>
 <br>
 #### Third Turotial Example of how to annotate and normalize 850K EPIC data to analyze it with MetKMR 
  Includes a pipeline for preprocessing and normalizing data and to obtain the annotation data frame<br>
-<A HREF="https://github.com/UVic-omics/MetKMR/blob/master/EPICdata_example.pdf"> Third tutorial </A>
+<A HREF="https://github.com/UVic-omics/MetKMR/blob/master/epic.pdf"> Third tutorial </A>
 <br>
 
 ## SHINY APP : GUI user interface
 Do you like pushing buttons? If you prefer using an app than running a script  MetKMR has it own shiny app that can be download from here:
 
-<A HREF="https://www.dropbox.com/s/xpox24o551koe9w/MetKMR_shiny.tar.xz?dl=0"> MetKMR shiny App </A>
+<A HREF="https://www.dropbox.com/s/0qq24lo1dfq3a9s/shiny_final.tar.xz?dl=0"> MetKMR shiny App </A>
 
 You can download some examples of how to format your data for using the shiny app from here:
-<A HREF="https://www.dropbox.com/s/lmicclwcpohvak8/data_for_trying_the_app.zip?dl=0"> MetKMR shiny App inputs</A>
+<A HREF="https://www.dropbox.com/s/ykg9hbmwfc3o0ys/data_for_trying_the_app.zip?dl=0"> MetKMR shiny App inputs</A>
 
-You can try a demo in :<A HREF="https://ruth-barral-arca.shinyapps.io/MetKMR_shiny_ruth/"> See a demo! </A>
-Please note that this "web version" is just a demo as the RAM provided by shinyapps server for free is not enough to perform the majority of analysis. So to analyze your data you need to download the app and run it locally in your pc.
  <img src="app.png"> <br>
 
 
