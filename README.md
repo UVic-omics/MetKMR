@@ -34,10 +34,10 @@ To start using `MetKMR` we recomend to:
 <A HREF="https://github.com/UVic-omics/MetKMR/blob/master/HD_example.pdf"> First tutorial </A><br>
  <A HREF="https://www.dropbox.com/s/00d96vq5k2k4kdw/files_tutorial1.zip?dl=0"> First tutorial data files </A>
 <br>
-#### Second Tutorial: An interactomic approach based on combining epigenomic (450K) and transcriptomic data (RNA-Seq) from the Genome Cancer Atlas Project. 
+#### Second Tutorial: An interactomic approach based on combining epigenomic (450K) and transcriptomic data (RNA-Seq) from the Genome Cancer Atlas Project for the study of colorrectal cancer progression. 
 <A HREF="https://github.com/UVic-omics/MetKMR/blob/master/interactomics.pdf"> Second tutorial </A>
 <br>
-#### Third Turotial Example of how to annotate and normalize 850K EPIC data to analyze it with MetKMR 
+#### Third Tutotial Example of how to annotate and normalize 850K EPIC data to analyze it with MetKMR (Tuberculosis patients vs hHealthy controls)
  Includes a pipeline for preprocessing and normalizing data and to obtain the annotation data frame<br>
 <A HREF="https://github.com/UVic-omics/MetKMR/blob/master/epic.pdf"> Third tutorial </A>
 <br>
