@@ -15,7 +15,5 @@
 \description{
 Transforms the object to use a SQLite database
 }
-\example{
-# example <- toSQLite(example, "test_database.sqlite")
-}
+
 
