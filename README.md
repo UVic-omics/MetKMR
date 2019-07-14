@@ -8,7 +8,7 @@
 Using devtools<br>
 ```
 # Installing the files in the repository
-devtools::install_github("RuthBarral/MetKMR_2.1/MetKMR_2.1/",auth_token="2253a1d77af5c4d6ddfea1dc320e9cfcbac643f6")
+devtools::install_github("RuthBarral/MetKMR_2.1/MetKMR_2.1/",auth_token="")
 # Loading the library
   library("MetKMR")
 ```
