@@ -8,7 +8,7 @@
 Using devtools<br>
 ```
 # Installing the files in the repository
-devtools::install_github("RuthBarral/MetKMR_2.1/MetKMR_2.1/",auth_token="")
+devtools::install_github(repo="UVic-omics/MetKMR/MetKMR_1.0", auth_token="b9608c65c0f02c2bf558a29a381a3629bc500f84")
 # Loading the library
   library("MetKMR")
 ```
