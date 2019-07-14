@@ -69,3 +69,6 @@ MetKMR project was developed by Carlos Martínez Mira , Ruth Barral Arca , Aleja
 -toSQLite:problems when importing previously created sql files <br>
 -error in toSQLite:   some dplyr functions  have been moved to dbplyr<br>
 -error in createintervals: also due to changes in dplyr <br>
+
+
+<center> <img src="Package_sticker.png"> </center>
