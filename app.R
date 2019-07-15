@@ -12,7 +12,7 @@
 #post it online
 
 library(shiny)
-library(MetRKAT)
+library(MetKMR)
 library(GenomicRanges)
 library(rtracklayer)
 library(Biobase)
