@@ -55,9 +55,11 @@ You can download some examples of how to format your data for using the shiny ap
 
 
 ## IMPORTANT
-Despite of the fact that MetKMR has been designed to not "devour" RAM and avoid RAM crush, depending on the kind of  analysis you are performing and how many CpGs you are testing it could take a lot of time. Specially if you use a machine with very low RAM memmory. Yo don't need a cluster neither a super expensive computer but we recommend to run it in at least 16GB. 
-(All of the analysis of the tutorials were run in a Lenovo L450 laptop with UBUNTU 18, 16GB of ram and 4 cores)
+Despite of the fact that MetKMR has been designed to not "devour" RAM and avoid RAM crush, depending on the kind of  analysis you are performing and how many CpGs you are testing it could take a lot of time. Specially if you use a machine with very low RAM memory. But you don't need a cluster, for instance all of the analysis of the tutorials were tested in the following computers :
 
+- HP pavillion laptop with Windows Vista 10 , 8 GB of ram and 4 cores 
+- A Lenovo L450 laptop with UBUNTU 18, 16GB of ram and 4 cores 
+- A custom high performance desktop computer with UBUNTU 18, 64GB of ram and 16 cores 
 
 ##  Who is responsible of this package?
 MetKMR project was developed by Carlos Martínez Mira , Ruth Barral Arca , Alejandro Gil and supervised by M. Luz Calle Rosingana.  Ruth is the mantainer of the package (barralarcaruth@gmail.com) if you have any doubt or suggestion do not hesitate to contact her.
