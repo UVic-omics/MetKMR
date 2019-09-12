@@ -17,9 +17,9 @@ Manually
 <A HREF="https://github.com/UVic-omics/MetKMR/blob/master/MetKMR_1.0.tar.xz"> Package </A>
 
 ## What is MetKMR?
-There are many differential methylation analysis packages available already, but the majority of them are focused on testing individual sites and composing differentially methylated regions. In this current work an alternative one is proposed, based on a slidingwindow approach with association tests between the generated intervals and the phenotype, using kernel metrics constructed with distance metrics via a semi-parametric kernel machine regression framework, by adapting the Microbiome Regression-based Kernel Association Test (MiRKAT) package.
-The software, written in R programming supports many types of methylation data from Illumina microarrays to Biseq data.
-
+Despite of the fact that there are already many tools available for differential methylation analysis, the approach of the majority of them is based on testing individual CpG sites and yield as a result differentially methylated positions. Here we present a new software, MetKMR, which incorporates state-of-the-art statistical techniques based on a sliding window approach for the analysis of DNA methylation data, focusing on finding differentially methylated regions rather than single positions. The idea that underlays this approach is that a lonely change in CpG site is unlikely to produce a high impact in gene expression.
+MetKMR performs association tests between the generated intervals and the phenotype using kernel metrics obtained from distance metrics via a semi-parametric kernel machine regression framework, by adapting the Microbiome Regression-based Kernel Association Test (MiRKAT) package.
+ We have created a user-friendly R software package MetKMR for the discovery of differentially methylated regions via a Kernel regression sliding-window approach in DNA methylation data. Our accompanying Shiny app provides an interactive way of performing analysis with the MetKMR package.
 ## Running `MetKMR`
 
 To start using `MetKMR` we recomend to:
