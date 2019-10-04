@@ -60,9 +60,8 @@ Despite of the fact that MetKMR has been designed to not "devour" RAM and avoid 
 - HP pavillion laptop with Windows Vista 10 , 8 GB of ram and 4 cores 
 - A Lenovo L450 laptop with UBUNTU 18, 16GB of ram and 4 cores 
 - A custom high performance desktop computer with UBUNTU 18, 64GB of ram and 16 cores 
-
-##  Who is responsible of this package?
-MetKMR project was developed by Carlos Martínez Mira , Ruth Barral Arca , Alejandro Gil and supervised by M. Luz Calle Rosingana.  Ruth is the mantainer of the package (barralarcaruth@gmail.com) if you have any doubt or suggestion do not hesitate to contact her.
+ 
+Ruth Barral-Arca is the mantainer of the package (barralarcaruth@gmail.com) if you have any doubt ,suggestion or complain! do not hesitate to contact her.
 
 ##  Corrected bugs since version 1.0
 -error in ApplyRKAT: dplyr did not longer support a return within a dplyr:do <br>
